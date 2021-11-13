@@ -10,3 +10,4 @@ The files would be uploaded and send to python as arguments
 
 Elevator pitch can be found here
 https://github.com/sud0x00/DS-Checker/blob/0860d0f29435b0b8ee95b0384e325c1ff8918e8a/src/Elevator%20Pitch.pdf
+(src/Elevator Pitch.pdf)
