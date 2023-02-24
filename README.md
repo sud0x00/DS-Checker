@@ -1,4 +1,4 @@
-# DS-Checker
+# DS-Checker (DocSim)
   
 #### Project Goal: ####  
   
